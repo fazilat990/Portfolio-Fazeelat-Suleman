@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg : #00203f;
+  --highlight: #428c7f;
+  --green : #55eea8;
+  --darkgold : #adf0d1;
+  --text: #fff;
+  --blue: #0068e6;
+}
+@font-face {
+  font-family: 'Poiret One';
+  src: url("assets/fonts/Poiret_One/PoiretOne-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Aerospace';
+  src: url("assets/fonts/Aerospace/Aerospace.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poiret One', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--text);
+  background-color: var(--bg);
+  scroll-behavior: smooth;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.container{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.scrolling-img > img{
+  -webkit-transition: ease-in-out 4s;
+  transition: ease-in-out 4s;
+}
+.scrolling-img > img:hover{
+  background-position: center bottom;
+}

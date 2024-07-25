@@ -1,0 +1,53 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "Bareeze Man",
+        "category": "Shopify",
+        "image": "intl-bareezeman.jpg", 
+        "tags": ["theme Customisation", "development"],
+        "projectUrl": "https://intl.bareezeman.com/"
+      },
+      {
+        "id": 2,
+        "title": "Project 2",
+        "category": "UI/UX",
+        "image": "sample.jpg",
+        "tags": ["tag3", "tag4"],
+        "projectUrl": "https://example.com/project2"
+      },
+      {
+        "id": 3,
+        "title": "Project 3",
+        "category": "Shopify",
+        "image": "sample.jpg",
+        "tags": ["tag5", "tag6"],
+        "projectUrl": "https://example.com/project3"
+      },
+      {
+        "id": 4,
+        "title": "Project 4",
+        "category": "Mobile apps",
+        "image": "sample.jpg",
+        "tags": ["tag7", "tag8"],
+        "projectUrl": "https://example.com/project4"
+      },
+      {
+        "id": 5,
+        "title": "Project 5",
+        "category": "Mobile apps",
+        "image": "sample.jpg",
+        "tags": ["tag9", "tag10"],
+        "projectUrl": "https://example.com/project5"
+      },
+      {
+        "id": 6,
+        "title": "Project 6",
+        "category": "Shopify",
+        "image": "sample.jpg",
+        "tags": ["tag11", "tag12"],
+        "projectUrl": "https://example.com/project6"
+      }
+    ]
+  }
+  
