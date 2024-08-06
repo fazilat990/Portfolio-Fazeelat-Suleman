@@ -1,0 +1,101 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "Bareeze Man",
+        "category": "Shopify",
+        "image": "intl-bareezeman.jpg", 
+        "tags": ["theme Customisation", "development"],
+        "projectUrl": "https://intl.bareezeman.com/"
+      },
+      {
+        "id": 2,
+        "title": "Chinyere",
+        "category": "Shopify",
+        "image": "chinyereintl.jpg",
+        "tags": ["design", "development", "customization", "XD Conversion"],
+        "projectUrl": "https://chinyereintl.com/"
+      },
+      {
+        "id": 3,
+        "title": "Fico Amaro Solt",
+        "category": "Shopify",
+        "image": "ficoamarosolt.jpg",
+        "tags": ["design", "development", "customization"],
+        "projectUrl": "https://ficoamarosolt.com/`"
+      },
+      {
+        "id": 4,
+        "title": "Sultanbaagh",
+        "category": "Shopify",
+        "image": "sample.jpg",
+        "tags": ["design", "development", "customization"],
+        "projectUrl": "https://sultanbaagh.com/"
+      },
+      {
+        "id": 5,
+        "title": "Zain Annual Report",
+        "category": "WordPress",
+        "image": "sample.jpg",
+        "tags": ["Gutenberg", "Custom Gutembeg Blocks", "XD Conversion", "theme customization", "WPML", "ACF PRO"],
+        "projectUrl": "https://zain.com/AR2023/"
+      },
+      {
+        "id": 6,
+        "title": "Sadia Aman",
+        "category": "WordPress",
+        "image": "sample.jpg",
+        "tags": ["website development", "Elementor Pro"],
+        "projectUrl": "https://www.sadiaaman.com/"
+      },
+      {
+        "id": 7,
+        "title": "Remembring",
+        "category": "Shopify",
+        "image": "sample.jpg",
+        "tags": ["website development", "theme Customisation"],
+        "projectUrl": "https://remembring.com/"
+      },
+      {
+        "id": 8,
+        "title": "Cysight",
+        "category": "WordPress",
+        "image": "sample.jpg",
+        "tags": ["landing page"],
+        "projectUrl": "https://cysight.ai/"
+      },
+      {
+        "id": 9,
+        "title": "Project 6",
+        "category": "WordPress",
+        "image": "sample.jpg",
+        "tags": ["tag11", "tag12"],
+        "projectUrl": "https://example.com/project6"
+      },
+      {
+        "id": 10,
+        "title": "Project 6",
+        "category": "Shopify",
+        "image": "sample.jpg",
+        "tags": ["tag11", "tag12"],
+        "projectUrl": "https://example.com/project6"
+      },
+      {
+        "id": 11,
+        "title": "Project 6",
+        "category": "Shopify",
+        "image": "sample.jpg",
+        "tags": ["tag11", "tag12"],
+        "projectUrl": "https://example.com/project6"
+      }, 
+      {
+        "id": 12,
+        "title": "Project 6",
+        "category": "Shopify",
+        "image": "sample.jpg",
+        "tags": ["tag11", "tag12"],
+        "projectUrl": "https://example.com/project6"
+      }
+    ]
+  }
+  

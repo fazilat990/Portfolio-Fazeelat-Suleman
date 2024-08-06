@@ -49,3 +49,6 @@ code {
 .scrolling-img > img:hover{
   background-position: center bottom;
 }
+.w-fit-content{
+  min-width: fit-content;
+}
