@@ -1,0 +1,259 @@
+{
+  "projects": [
+    {
+      "title": "Advendure Rider Mag",
+      "category": "WordPress",
+      "image": "advridermag.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://actionthreat.com/"
+    },
+    {
+      "title": "Action Threat",
+      "category": "WordPress",
+      "image": "actionthreat.jpg",
+      "tags": [
+        "XD Conversion",
+        "Customized WooCommerce"
+      ],
+      "projectUrl": "https://actionthreat.com/"
+    },
+    {
+      "title": "Ushna.pk",
+      "category": "Shopify",
+      "image": "ushnapk.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://ushna.pk/"
+    },
+    {
+      "title": "Suroor Scents",
+      "category": "Shopify",
+      "image": "suroorscents.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://suroorscents.com/"
+    },
+    {
+      "title": "Productive Dental Mentors",
+      "category": "WordPress",
+      "image": "productivedentalmentors.jpg",
+      "tags": [
+        "Membership Subscription",
+        "Website development"
+      ],
+      "projectUrl": "https://www.productivedentalmentors.com/"
+    },
+    {
+      "title": "Bareeze Man",
+      "category": "Shopify",
+      "image": "intl-bareezeman.jpg",
+      "tags": [
+        "theme Customisation",
+        "development"
+      ],
+      "projectUrl": "https://intl.bareezeman.com/"
+    },
+    {
+      "title": "Chinyere",
+      "category": "Shopify",
+      "image": "chinyereintl.jpg",
+      "tags": [
+        "design",
+        "development",
+        "customization",
+        "XD Conversion"
+      ],
+      "projectUrl": "https://chinyereintl.com/"
+    },
+    {
+      "title": "Fico Amaro Solt",
+      "category": "Shopify",
+      "image": "ficoamarosolt.jpg",
+      "tags": [
+        "design",
+        "development",
+        "customization"
+      ],
+      "projectUrl": "https://ficoamarosolt.com/"
+    },
+    {
+      "title": "Sultanbaagh",
+      "category": "Shopify",
+      "image": "sultanbaagh.jpg",
+      "tags": [
+        "design",
+        "development",
+        "customization"
+      ],
+      "projectUrl": "https://sultanbaagh.com/"
+    },
+    {
+      "title": "Zain Annual Report",
+      "category": "WordPress",
+      "image": "zain-ar2023.jpg",
+      "tags": [
+        "Gutenberg",
+        "Custom Gutembeg Blocks",
+        "XD Conversion",
+        "theme customization",
+        "WPML",
+        "ACF PRO"
+      ],
+      "projectUrl": "https://zain.com/AR2023/"
+    },
+    {
+      "title": "Sadia Aman",
+      "category": "WordPress",
+      "image": "sadia-aman.jpg",
+      "tags": [
+        "website development",
+        "Elementor Pro"
+      ],
+      "projectUrl": "https://www.sadiaaman.com/"
+    },
+    {
+      "title": "Remembring",
+      "category": "Shopify",
+      "image": "remembring.jpg",
+      "tags": [
+        "website development",
+        "theme Customisation"
+      ],
+      "projectUrl": "https://remembring.com/"
+    },
+    {
+      "title": "TalentHue",
+      "category": "WordPress",
+      "image": "talenthue.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://www.talenthue.com/"
+    },
+    {
+      "title": "PCHF PK",
+      "category": "WordPress",
+      "image": "pchf-pk.jpg",
+      "tags": [
+        "website development",
+        "customization"
+      ],
+      "projectUrl": "https://pchf.org.pk/"
+    },
+    {
+      "title": "Glamora",
+      "category": "Shopify",
+      "image": "glamora.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://glamorastore.pk/"
+    },
+    {
+      "title": "Haryali Store",
+      "category": "Shopify",
+      "image": "haryali-store.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://haryalistore.com/"
+    },
+    {
+      "title": "Hembus",
+      "category": "Shopify",
+      "image": "hembus.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://hembus-tapeten.com/"
+    },
+    {
+      "title": "Kingsman Scissors",
+      "category": "Shopify",
+      "image": "kingsman-scissors.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://kingsmanscissors.com/"
+    },
+    {
+      "title": "Shopaholic",
+      "category": "Shopify",
+      "image": "shopaholic.jpg",
+      "tags": [
+        "website development",
+        "customization"
+      ],
+      "projectUrl": "https://www.shopaholic.com.pk/"
+    },
+    {
+      "title": "PCHF UK",
+      "category": "WordPress",
+      "image": "pchf-uk.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://pchfuk.org/"
+    },
+    {
+      "title": "Dezital",
+      "category": "WordPress",
+      "image": "dezital.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://www.dezital.com/"
+    },
+    {
+      "title": "Fischer",
+      "category": "WordPress",
+      "image": "fischer.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://fischerpk.com/"
+    },
+    {
+      "title": "Fischer",
+      "category": "WordPress",
+      "image": "fischer.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://fischerpk.com/"
+    },
+    {
+      "title": "Enterprise Efax",
+      "category": "WordPress",
+      "image": "enterprise-efax.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://enterprise.efax.eu/"
+    },
+    {
+      "title": "Dynamic Careers",
+      "category": "WordPress",
+      "image": "dynamic-careers.jpg",
+      "tags": [
+        "website development"
+      ],
+      "projectUrl": "https://dcimigration.com/"
+    },
+    {
+      "title": "Ip2 Mobiles ",
+      "category": "Custom Solutions",
+      "image": "ip2mobile.jpg",
+      "tags": [
+        "website development",
+        "Material Design"
+      ],
+      "projectUrl": "https://ip2mobile.com/"
+    }
+  ]
+}
