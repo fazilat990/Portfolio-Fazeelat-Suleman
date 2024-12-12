@@ -27,7 +27,7 @@ function Work() {
 
   return (
     <div className='work-wrap'>
-      <div className="container mx-auto p-8">
+      <div className="container">
         <div className="mb-4 space-x-4">
           {categories.map((category, index) => (
             <button
@@ -42,7 +42,7 @@ function Work() {
         <div className="flex flex-wrap -mx-4">
           {filteredProjects.map((project, index) => (
 
-            <div key={index} className="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 px-4 mb-8">
+            <div key={index} className="w-full md:w-1/2 lg:w-1/3 xl:w-1/4 xxl:w-1/5 px-4 mb-8">
 
               <div className="p-4 rounded relative bg-teal-400/10">
                 <div className="text-white-600 absolute top-15 bg-[var(--bg)] p-2"> {project.category}</div>

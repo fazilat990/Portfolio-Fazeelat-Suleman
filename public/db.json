@@ -1,24 +1,13 @@
 {
   "projects": [
     {
-      "title": "Advendure Rider Mag",
+      "title": "Innovant Healthcare",
       "category": "WordPress",
-      "image": "advridermag.jpg",
+      "image": "innovanthealthcare.jpg",
       "tags": [
-        "Blog",
         "Website Development"
       ],
-      "projectUrl": "https://actionthreat.com/"
-    },
-    {
-      "title": "Action Threat",
-      "category": "WordPress",
-      "image": "actionthreat.jpg",
-      "tags": [
-        "XD Conversion",
-        "Customized WooCommerce"
-      ],
-      "projectUrl": "https://actionthreat.com/"
+      "projectUrl": "https://innovanthealthcare.co.uk/"
     },
     {
       "title": "Ushna.pk",
@@ -164,6 +153,15 @@
       "projectUrl": "https://haryalistore.com/"
     },
     {
+      "title": "Work Train Fight",
+      "category": "WordPress",
+      "image": "worktrainfight.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://www.worktrainfight.com/"
+    },
+    {
       "title": "Hembus",
       "category": "Shopify",
       "image": "hembus.jpg",
@@ -254,6 +252,502 @@
         "Material Design"
       ],
       "projectUrl": "https://ip2mobile.com/"
+    },
+    {
+      "title": "Wakefield Golden",
+      "category": "WordPress",
+      "image": "wakefieldgolden.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://wakefieldgoldens.com/"
+    },
+    {
+      "title": "Ice Fishing Derby",
+      "category": "WordPress",
+      "image": "icefishing.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://www.icefishingderby.com/"
+    },
+    {
+      "title": "Australian Car Mechanics",
+      "category": "WordPress",
+      "image": "australiancarmechanic.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://www.mechanics-mag.com.au/"
+    },
+    {
+      "title": "Arbor Age",
+      "category": "WordPress",
+      "image": "arborage.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://arborage.com.au/"
+    },
+    {
+      "title": "Advendure Rider Mag",
+      "category": "WordPress",
+      "image": "advridermag.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://advridermag.com.au/"
+    },
+    {
+      "title": "Action Threat",
+      "category": "WordPress",
+      "image": "actionthreat.jpg",
+      "tags": [
+        "XD Conversion",
+        "Customized WooCommerce"
+      ],
+      "projectUrl": "https://actionthreat.com/"
+    },
+    {
+      "title": "Landscape Contractor",
+      "category": "WordPress",
+      "image": "landscapecontractor.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://www.landscapecontractor.com.au/"
+    },
+    {
+      "title": "Maryland Pet (Com)",
+      "category": "WordPress",
+      "image": "marylandpetcom.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://marylandpet.com/"
+    },
+    {
+      "title": "Maryland Pet (Org)",
+      "category": "WordPress",
+      "image": "marylandpetorg.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://marylandpet.org/"
+    },
+    {
+      "title": "Tradies Mag",
+      "category": "WordPress",
+      "image": "tradiesmag.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://tradies-mag.com.au/"
+    },
+    {
+      "title": "Tradies Magazine",
+      "category": "WordPress",
+      "image": "tradiesmagazine.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://www.tradiemagazine.com.au/"
+    },
+    {
+      "title": "BMC Sleeves Co",
+      "category": "WordPress",
+      "image": "bmc.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://bmcsleeves.com/"
+    },
+    {
+      "title": "Billington inspection",
+      "category": "WordPress",
+      "image": "billingtoninspection.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://www.billingtoninspections.com/"
+    },
+    {
+      "title": "Bitcoin Web Hosting",
+      "category": "WordPress",
+      "image": "bitcoinwebhosting.jpg",
+      "tags": [
+        "Site Replica"
+      ],
+      "projectUrl": "https://www.bitcoinwebhosting.net/"
+    },
+    {
+      "title": "Retkete - Bliss Pago",
+      "category": "WordPress",
+      "image": "blisspago.jpg",
+      "tags": [
+        "Xd Conversion",
+        "Website Development"
+      ],
+      "projectUrl": "https://rekete.com.mx/"
+    },
+    {
+      "title": "CySightai",
+      "category": "WordPress",
+      "image": "cysighti.jpg",
+      "tags": [
+        "Landing page"
+      ],
+      "projectUrl": "https://cysight.ai/"
+    },
+    {
+      "title": "denise glee",
+      "category": "WordPress",
+      "image": "deniseglee.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://deniseglee.com/"
+    },
+    {
+      "title": "Dirtbusters Cleaners",
+      "category": "WordPress",
+      "image": "dirtbusterscleaners.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://dirtbusterscleaners.co.uk/"
+    },
+    {
+      "title": "EEG Management",
+      "category": "WordPress",
+      "image": "eegmanagement.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://eegmanagement.com/"
+    },
+    {
+      "title": "Earth Movers",
+      "category": "WordPress",
+      "image": "earthmovers.jpg",
+      "tags": [
+        "Blog",
+        "Website Development"
+      ],
+      "projectUrl": "https://www.earthmovers-magazine.com.au/"
+    },
+    {
+      "title": "Efax",
+      "category": "WordPress",
+      "image": "efax.jpg",
+      "tags": [
+        "Sitefinity to WP"
+      ],
+      "projectUrl": "https://www.efax.com/"
+    },
+    {
+      "title": "Excel Dental Care",
+      "category": "WordPress",
+      "image": "exceldentalcare.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://exceldentalcare.co.uk/"
+    },
+    {
+      "title": "Envision",
+      "category": "WordPress",
+      "image": "envision.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://www.future-tech.com/"
+    },
+    {
+      "title": "Grateful Gratitude Attitude",
+      "category": "WordPress",
+      "image": "gratefulgratitude.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://gratefulgratitudeattitude.com/"
+    },
+    {
+      "title": "High Ridge Capital",
+      "category": "WordPress",
+      "image": "highridgecapital.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://highridge.capital/"
+    },
+    {
+      "title": "jFax",
+      "category": "WordPress",
+      "image": "jfax.jpg",
+      "tags": [
+        "Sitefinity to WP"
+      ],
+      "projectUrl": "https://www.jfax.com/"
+    },
+    {
+      "title": "Longfine",
+      "category": "WordPress",
+      "image": "longfine.jpg",
+      "tags": [
+        "Website Updates"
+      ],
+      "projectUrl": "https://longfine.com.au/"
+    },
+    {
+      "title": "ML Zukowskiffs",
+      "category": "WordPress",
+      "image": "mlzukowskiffs.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://www.mlzukowskiffs.com/"
+    },
+    {
+      "title": "Mentis",
+      "category": "WordPress",
+      "image": "mentis.jpg",
+      "tags": [
+        "Website Updates"
+      ],
+      "projectUrl": "https://mentisglobal.com/"
+    },
+    {
+      "title": "Metro Fax",
+      "category": "WordPress",
+      "image": "metrofax.jpg",
+      "tags": [
+        "Sitefinity to WP"
+      ],
+      "projectUrl": "https://www.metrofax.com/"
+    },
+    {
+      "title": "Muskoka Pest Control",
+      "category": "WordPress",
+      "image": "muskokapestcontrol.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://www.muskokapestcontrol.com/"
+    },
+    {
+      "title": "Neurint",
+      "category": "WordPress",
+      "image": "neurint.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://www.neurint.it/"
+    },
+    {
+      "title": "PCAP",
+      "category": "WordPress",
+      "image": "pcap.jpg",
+      "tags": [
+        "Website Development",
+        "Blog"
+      ],
+      "projectUrl": "https://pcap-neighbours.com/"
+    },
+    {
+      "title": "Padel Station Pro",
+      "category": "WordPress",
+      "image": "padelstationpro.jpg",
+      "tags": [
+        "Website Development",
+        "WooCommerce"
+      ],
+      "projectUrl": "https://padelstationpro.com/"
+    },
+    {
+      "title": "Prodatix",
+      "category": "WordPress",
+      "image": "prodatix.jpg",
+      "tags": [
+        "Website Development",
+        "PSD Conversion"
+      ],
+      "projectUrl": "https://prodatix.com/"
+    },
+    {
+      "title": "Rangeley Vacation Rentals",
+      "category": "WordPress",
+      "image": "rangeleyvacationrentals.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://rangeleyvacationrentals.com/"
+    },
+    {
+      "title": "Society Web Solutions",
+      "category": "WordPress",
+      "image": "societywebsolutions.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://societywebsolutions.com/"
+    },
+    {
+      "title": "Solblazers",
+      "category": "WordPress",
+      "image": "solblazers.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://www.solblazers.org/"
+    },
+    {
+      "title": "Templar labs",
+      "category": "WordPress",
+      "image": "templarlabs.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://templarlabs.co.uk/"
+    },
+    {
+      "title": "The Pizza Boys",
+      "category": "WordPress",
+      "image": "thepizzaboys.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://www.thepizzaboys.com.au/"
+    },
+    {
+      "title": "Wilkinson Law LLC",
+      "category": "WordPress",
+      "image": "wilkinsonlawllc.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://www.wilkinsonlawllc.com/"
+    },
+    {
+      "title": "Unitronics",
+      "category": "WordPress",
+      "image": "unitronics.jpg",
+      "tags": [
+        "Website Development",
+        "PSD Conversion"
+      ],
+      "projectUrl": "https://www.unitronics.com.de/"
+    },
+    {
+      "title": "Xstek",
+      "category": "WordPress",
+      "image": "xstek.jpg",
+      "tags": [
+        "Website Redesign"
+      ],
+      "projectUrl": "https://xstek.co.uk/"
+    },
+    {
+      "title": "MM Seas",
+      "category": "Custom Solutions",
+      "image": "mmseas.jpg",
+      "tags": [
+        "SEO Optimization"
+      ],
+      "projectUrl": "https://www.mmseas.com/"
+    },
+    {
+      "title": "Atlas Cargo",
+      "category": "Custom Solutions",
+      "image": "atlascargo.jpg",
+      "tags": [
+        "Bootstrap",
+        "Website Development"
+      ],
+      "projectUrl": "https://atlastransportllc.com/"
+    },
+    {
+      "title": "Bigbuda",
+      "category": "Custom Solutions",
+      "image": "bigbuda.jpg",
+      "tags": [
+        "Bootstrap",
+        "Website Development"
+      ],
+      "projectUrl": "https://bigbuda.cl/"
+    },
+    {
+      "title": "Cuba Exotica",
+      "category": "Custom Solutions",
+      "image": "cubaexotica.jpg",
+      "tags": [
+        "Bootstrap",
+        "Single Page Development"
+      ],
+      "projectUrl": "https://www.cubaexotica.com.au/"
+    },
+    {
+      "title": "Design a Fireplace",
+      "category": "Custom Solutions",
+      "image": "designafireplace.jpg",
+      "tags": [
+        "Bootstrap",
+        "Website Development"
+      ],
+      "projectUrl": "https://www.designafireplace.com/"
+    },
+    {
+      "title": "Novastone CA",
+      "category": "Custom Solutions",
+      "image": "novastone.jpg",
+      "tags": [
+        "Bootstrap",
+        "Website Development",
+        "XD Conversion"
+      ],
+      "projectUrl": "https://www.novastone-ca.com/"
+    },
+    {
+      "title": "Patfallon",
+      "category": "Custom Solutions",
+      "image": "patfallon.jpg",
+      "tags": [
+        "PHP",
+        "Website Development"
+      ],
+      "projectUrl": "https://www.patfallon.com/index.php/"
+    },
+    {
+      "title": "Select Auto Protect",
+      "category": "Custom Solutions",
+      "image": "selectautoprotect.jpg",
+      "tags": [
+        "PHP",
+        "Website Development"
+      ],
+      "projectUrl": "https://selectautoprotect.com/"
+    },
+    {
+      "title": "Whagons",
+      "category": "Custom Solutions",
+      "image": "whagons.jpg",
+      "tags": [
+        "PHP",
+        "Website Development"
+      ],
+      "projectUrl": "https://whagons.com/"
     }
   ]
 }
