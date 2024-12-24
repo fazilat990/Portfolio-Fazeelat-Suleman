@@ -29,9 +29,9 @@ function Contact() {
 
   const contactInfo = [
     {
-      text: '(+92) 312 820 8700',
+      text: 'Request Phone No!',
       icon: phoneIcon,
-      link: 'tel:+92 312 820 8700'
+      link: 'mailto:fazilat.990@gmail.com'
     },
     {
       text: 'fazilat.990',
