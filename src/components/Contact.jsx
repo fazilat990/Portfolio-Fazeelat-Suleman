@@ -106,9 +106,15 @@ function Contact() {
                 </div>
                 <div className="w-full md:w-1/1 px-3">
                   <label className="block uppercase tracking-wide text-white text-xs font-bold mb-2" htmlFor="message">
+                    Required Service
+                  </label>
+                  <input className="appearance-none block w-full bg-transparent text-white border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-dark focus:border-gray-500" id="message" placeholder="Shopify Website Devlopment" name="message" required />
+                </div>
+                <div className="w-full md:w-1/1 px-3">
+                  <label className="block uppercase tracking-wide text-white text-xs font-bold mb-2" htmlFor="message">
                     Message
                   </label>
-                  <input className="appearance-none block w-full bg-transparent text-white border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-dark focus:border-gray-500" id="message" placeholder="Type your message" name="message" required />
+                  <textarea className="appearance-none block w-full bg-transparent text-white border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-dark focus:border-gray-500" rows={5} id="message" placeholder="Enter Details" name="message" required></textarea>
                 </div>
                 <div className="w-full md:w-1/1 px-3">
                   <div className="relative inline-block">
