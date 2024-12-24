@@ -64,7 +64,6 @@ function Work() {
                 <a href={project.projectUrl} target="_blank" rel="noopener noreferrer" className="block">View Project</a>
               </div>
             </div>
-
           ))}
         </div>
       </div>
