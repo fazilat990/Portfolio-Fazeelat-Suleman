@@ -96,15 +96,16 @@ function Skills() {
                 <div className='skill-info flex items-center justify-center'><img src={skillsdetails.skillIcon} />{skillsdetails.skillname}</div>
               </div>
             ))}
+            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="160px" height="160px">
+              <defs>
+                <linearGradient id="GradientColor">
+                  <stop offset="0%" stopColor="var(--green)" />
+                  <stop offset="100%" stopColor="var(--blue)" />
+                </linearGradient>
+              </defs>
+            </svg>
           </div>
-          <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="160px" height="160px">
-            <defs>
-              <linearGradient id="GradientColor">
-                <stop offset="0%" stopColor="var(--green)" />
-                <stop offset="100%" stopColor="var(--blue)" />
-              </linearGradient>
-            </defs>
-          </svg>
+
 
         </div>
       </div>
