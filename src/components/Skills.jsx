@@ -16,9 +16,63 @@ import ionicIcon from '../assets/images/ionic.svg'
 // DOC: https://www.npmjs.com/package/react-animated-progress-bar?activeTab=readme
 
 function Skills() {
-  const trackWidthVal = 3;
-  const trackPathColorval = 'transparent';
-  const ProgressBarWidth = "100%";
+  const skillsDetails = [
+    {
+      skillname: 'HTML',
+      skillPercentage: '100',
+      skillIcon: htmlIcon
+    },
+    {
+      skillname: 'CSS',
+      skillPercentage: '98',
+      skillIcon: cssIcon
+    },
+    {
+      skillname: 'JavaScript',
+      skillPercentage: '65',
+      skillIcon: jsIcon
+    },
+    {
+      skillname: 'jQuery',
+      skillPercentage: '70',
+      skillIcon: jqueryIcon
+    },
+    {
+      skillname: 'Bootstrap',
+      skillPercentage: '100',
+      skillIcon: bootstrapIcon
+    },
+    {
+      skillname: 'Tailwind',
+      skillPercentage: '60',
+      skillIcon: tailwindIcon
+    },
+    {
+      skillname: 'Material UI',
+      skillPercentage: '80',
+      skillIcon: materialuiIcon
+    },
+    {
+      skillname: 'WordPress',
+      skillPercentage: '100',
+      skillIcon: wordpressIcon
+    },
+    {
+      skillname: 'Shopify',
+      skillPercentage: '70',
+      skillIcon: shopifyIcon
+    },
+    {
+      skillname: 'React UI',
+      skillPercentage: '70',
+      skillIcon: reactIcon
+    },
+    {
+      skillname: 'Ionic UI',
+      skillPercentage: '90',
+      skillIcon: ionicIcon
+    }
+  ]
   return (
     <div className='skills-wrap py-5'>
       <div className="container">
@@ -34,63 +88,24 @@ function Skills() {
             <p>Visit my <a href="https://www.linkedin.com/in/fazeelat-suleman-378841110/" target="_blank">LinkedIn</a> profile for more details or just <a href="/contact">contact</a> me.
             </p>
           </div>
-          
-          <div className="skills grid grid-cols-3 items-center gap-y-5 gap-x-5 md:grid-cols-5">
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="98" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={htmlIcon} />HTML</div>
-            </div>
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="98" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={cssIcon} />CSS</div>
-            </div>
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="65" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={jsIcon} />JS</div>
-            </div>
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="70" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={jqueryIcon} />Jquery</div>
-            </div>
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="98" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={bootstrapIcon} />Bootstrap</div>
-            </div>
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="50" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={tailwindIcon} />Tailwind</div>
-            </div>
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="80" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={materialuiIcon} />Material UI</div>
-            </div>
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="100" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={wordpressIcon} />WordPress</div>
-            </div>
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="65" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={shopifyIcon} />Shopify</div>
-            </div>
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="70" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={reactIcon} />React UI</div>
-            </div>
-            <div className="skill text-center">
-              <ProgressBar width={`${ProgressBarWidth}`} trackWidth={`${trackWidthVal}`} percentage="90" trackPathColor={`${trackPathColorval}`} trackBorderColor={`${trackPathColorval}`}/>
-              <div className='skill-info flex items-center justify-center'><img src={ionicIcon} />Ionic UI</div>
-            </div>
-          </div>
 
-            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="160px" height="160px">
-              <defs>
-                <linearGradient id="GradientColor">
-                  <stop offset="0%" stopColor="var(--green)" />
-                  <stop offset="100%" stopColor="var(--blue)" />
-                </linearGradient>
-              </defs>
-            </svg>
-          
+          <div className="skills grid grid-cols-3 items-center gap-y-5 gap-x-5 md:grid-cols-5">
+            {skillsDetails.map((skillsdetails, index) => (
+              <div key={index} className="skill text-center">
+                <ProgressBar width="100%" trackWidth="3" percentage={skillsdetails.skillPercentage} trackPathColor="transparent" trackBorderColor="transparent" />
+                <div className='skill-info flex items-center justify-center'><img src={skillsdetails.skillIcon} />{skillsdetails.skillname}</div>
+              </div>
+            ))}
+          </div>
+          <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="160px" height="160px">
+            <defs>
+              <linearGradient id="GradientColor">
+                <stop offset="0%" stopColor="var(--green)" />
+                <stop offset="100%" stopColor="var(--blue)" />
+              </linearGradient>
+            </defs>
+          </svg>
+
         </div>
       </div>
     </div>
