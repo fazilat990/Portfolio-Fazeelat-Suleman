@@ -85,7 +85,7 @@ function Skills() {
             </p>
             <p className='mb-5'>I also have full-stack developer experience with popular open-source CMS like (WordPress & Shopify).
             </p>
-            <p>Visit my <a href="https://www.linkedin.com/in/fazeelat-suleman-378841110/" target="_blank">LinkedIn</a> profile for more details or just <a href="/contact">contact</a> me.
+            <p>Visit my <a href="https://www.linkedin.com/in/fazeelat-suleman-378841110/" target="_blank" rel="noreferrer">LinkedIn</a> profile for more details or just <a href="/contact">contact</a> me.
             </p>
           </div>
 
@@ -93,7 +93,7 @@ function Skills() {
             {skillsDetails.map((skillsdetails, index) => (
               <div key={index} className="skill text-center">
                 <ProgressBar width="100%" trackWidth="3" percentage={skillsdetails.skillPercentage} trackPathColor="transparent" trackBorderColor="transparent" />
-                <div className='skill-info flex items-center justify-center'><img src={skillsdetails.skillIcon} />{skillsdetails.skillname}</div>
+                <div className='skill-info flex items-center justify-center'><img alt='skill icon' src={skillsdetails.skillIcon} />{skillsdetails.skillname}</div>
               </div>
             ))}
             <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="160px" height="160px">
