@@ -6,7 +6,6 @@ import skypeIcon from '../assets/images/skype.svg';
 import linkedinIcon from '../assets/images/linkedin.svg';
 import locationIcon from '../assets/images/location.svg';
 
-
 function Contact() {
 
   const form = useRef();
@@ -14,7 +13,7 @@ function Contact() {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_sq0xf3t', 'template_7fnnrcy', form.current, 'Hru_amuysscYyweq0')
+    emailjs.sendForm('service_8eg1969', 'template_ufstjzb', form.current, 'AyVyKJIkko0fptuZJ')
       .then((result) => {
         console.log(result.text);
         setTimeout(function () {
@@ -105,10 +104,10 @@ function Contact() {
                   <input className="appearance-none block w-full bg-transparent text-white border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-dark focus:border-gray-500" id="useremail" type="email" placeholder="jane@gmail.com" name="user_email" required />
                 </div>
                 <div className="w-full md:w-1/1 px-3">
-                  <label className="block uppercase tracking-wide text-white text-xs font-bold mb-2" htmlFor="message">
+                  <label className="block uppercase tracking-wide text-white text-xs font-bold mb-2" htmlFor="userservice">
                     Required Service
                   </label>
-                  <input className="appearance-none block w-full bg-transparent text-white border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-dark focus:border-gray-500" id="message" placeholder="Shopify Website Devlopment" name="message" required />
+                  <input className="appearance-none block w-full bg-transparent text-white border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-dark focus:border-gray-500" id="userservice" placeholder="Shopify Website Devlopment" name="user_service" required />
                 </div>
                 <div className="w-full md:w-1/1 px-3">
                   <label className="block uppercase tracking-wide text-white text-xs font-bold mb-2" htmlFor="message">
