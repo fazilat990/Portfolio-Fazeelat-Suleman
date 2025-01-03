@@ -16,8 +16,9 @@ function Contact() {
     emailjs.sendForm('service_8eg1969', 'template_ufstjzb', form.current, 'AyVyKJIkko0fptuZJ')
       .then((result) => {
         console.log(result.text);
+        document.querySelector('.loader').style.display = 'flex';
         setTimeout(function () {
-          document.querySelector('.success-response').innerHTML = "Message Sent";
+          document.querySelector('.success-response').innerHTML = "<h4>Message sent successfully. I'll get back to you shortly.</h4>";
         }, 5000);
         document.getElementById("contactform").reset();
         console.log("message sent");
@@ -123,7 +124,9 @@ function Contact() {
                     </div>
                   </div>
                 </div>
-                <div className='success-response'></div>
+                <div className="w-full md:w-1/1 px-3 mt-4">
+                  <div className='success-response'></div>
+                </div>
               </div>
             </form>
           </div>
