@@ -123,8 +123,6 @@ function Contact() {
                       <img alt="loader" src={loaderImage} width="20px" />
                     </div>
                   </div>
-                  <div class="g-recaptcha" data-sitekey="your_site_key"></div>
-                  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
                 </div>
                 <div className="w-full md:w-1/1 px-3 mt-4">
                   <div className='success-response'></div>
