@@ -8,7 +8,6 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Contact from "./components/Contact";
 import About from "./components/About";
 import Skills from "./components/Skills";
-import ContactForm from "./components/ContactForm";
 
 function App() {
   return (
@@ -24,7 +23,6 @@ function App() {
           <Route exact path="/about" element={<About />}></Route>
           <Route exact path="/skills" element={<Skills />}></Route>
           <Route exact path="/work" element={<Work />}></Route>
-          <Route exact path="/contactform" element={<ContactForm />}></Route>
           <Route exact path="/contact" element={<Contact />}></Route>
         </Routes>
         <Footer />
