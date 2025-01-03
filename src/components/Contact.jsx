@@ -18,6 +18,7 @@ function Contact() {
         console.log(result.text);
         document.querySelector('.loader').style.display = 'flex';
         setTimeout(function () {
+          document.querySelector('.loader').style.display = 'none';
           document.querySelector('.success-response').innerHTML = "<h4>Message sent successfully. I'll get back to you shortly.</h4>";
         }, 5000);
         document.getElementById("contactform").reset();
