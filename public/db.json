@@ -1,6 +1,33 @@
 {
   "projects": [
     {
+      "title": "Baby Fiore",
+      "category": "Shopify",
+      "image": "babyfiore.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://babyfiore.com/"
+    },
+    {
+      "title": "Shahi Clutches",
+      "category": "Shopify",
+      "image": "shahiclutches.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://shahiclutches.com/"
+    },
+    {
+      "title": "Bareeze Man Pakistan",
+      "category": "Shopify",
+      "image": "bareezemanpk.jpg",
+      "tags": [
+        "Website Development"
+      ],
+      "projectUrl": "https://bareezeman.com/"
+    },
+    {
       "title": "Innovant Healthcare",
       "category": "WordPress",
       "image": "innovanthealthcare.jpg",
