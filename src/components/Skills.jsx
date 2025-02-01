@@ -29,7 +29,7 @@ function Skills() {
     },
     {
       skillname: 'JavaScript',
-      skillPercentage: '65',
+      skillPercentage: '70',
       skillIcon: jsIcon
     },
     {
@@ -44,7 +44,7 @@ function Skills() {
     },
     {
       skillname: 'Tailwind',
-      skillPercentage: '60',
+      skillPercentage: '70',
       skillIcon: tailwindIcon
     },
     {
@@ -54,7 +54,7 @@ function Skills() {
     },
     {
       skillname: 'WordPress',
-      skillPercentage: '100',
+      skillPercentage: '90',
       skillIcon: wordpressIcon
     },
     {
@@ -64,12 +64,12 @@ function Skills() {
     },
     {
       skillname: 'React UI',
-      skillPercentage: '70',
+      skillPercentage: '50',
       skillIcon: reactIcon
     },
     {
       skillname: 'Ionic UI',
-      skillPercentage: '90',
+      skillPercentage: '80',
       skillIcon: ionicIcon
     }
   ]
