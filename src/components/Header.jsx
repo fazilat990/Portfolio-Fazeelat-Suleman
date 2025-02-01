@@ -16,10 +16,11 @@ function Header() {
                 <img src={logo} alt='Logo' width='200' />
               </Link>
               <button className="border border-solid border-gray-600 px-3 py-1 rounded text-gray-600 opacity-50 hover:opacity-75 md:hidden" id="navbar-toggle">
-                <i className="fas fa-bars"></i>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="hamburger-menu" width="20px" height="30px" fill='#fff'>
+                  <path d="M5 7h14c.6 0 1-.4 1-1s-.4-1-1-1H5c-.6 0-1 .4-1 1s.4 1 1 1zm0 6h14c.6 0 1-.4 1-1s-.4-1-1-1H5c-.6 0-1 .4-1 1s.4 1 1 1zm0 6h14c.6 0 1-.4 1-1s-.4-1-1-1H5c-.6 0-1 .4-1 1s.4 1 1 1z"></path>
+                </svg>
               </button>
             </div>
-
             <div className="hidden md:flex flex-col md:flex-row md:ml-auto mt-3 md:mt-0" id="navbar-collapse">
               <Link to="/about" className="p-2 lg:px-4 md:mx-2 text-white rounded font-black hover:text-[var(--green)] transition-colors duration-300">About</Link>
               <Link to="/skills" className="p-2 lg:px-4 md:mx-2 text-white rounded font-black hover:text-[var(--green)] transition-colors duration-300">Skills</Link>
