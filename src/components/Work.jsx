@@ -28,12 +28,12 @@ function Work() {
   return (
     <div className='work-wrap'>
       <div className="container">
-        <div className="mb-4 space-x-4">
+        <div className="mb-4 space-x-4 flex flex-nowrap overflow-auto">
           {categories.map((category, index) => (
             <button
               key={index}
               onClick={() => filterCategory(category)}
-              className={`bg-${selectedCategory === category ? 'blue' : 'gray'}-500 hover:bg-${selectedCategory === category ? 'blue' : 'gray'}-700 text-white font-bold py-2 px-4 rounded`}
+              className={`bg-${selectedCategory === category ? 'blue' : 'gray'}-500 hover:bg-${selectedCategory === category ? 'blue' : 'gray'}-700 text-white font-bold py-2 px-3 rounded min-w-fit`}
             >
               {category}
             </button>
